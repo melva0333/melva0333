@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Selva 👨‍💻
+- 🔭 I’m currently seeking a dynamic role where I can leverage my technical skills and passion for software development to drive innovation and contribute to a forward-thinking organization’s success.
+- 👨🏾‍🎓 I recently graduated from the Makers Academy Software Development Bootcamp 
+- 🔍 I'm interested in cutting-edge technology, leveraging AI and machine learning  to solve problems & create innovative solutions.
+- 📫 How to reach me: selvaramanathan333@gmail.com
 
 <!--
 **melva0333/melva0333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
