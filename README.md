@@ -3,6 +3,8 @@
 - 👨🏾‍🎓 I recently graduated from the Makers Academy Software Development Bootcamp 
 - 🔍 I'm interested in cutting-edge technology, leveraging AI and machine learning  to solve problems & create innovative solutions.
 - 📫 How to reach me: selvaramanathan333@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selva-parthiban-r-b542b2a3)
+
 
 <!--
 **melva0333/melva0333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
