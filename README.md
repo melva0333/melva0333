@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvaparthibanramanathan)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=melva0333&color=green)
+![Profile visits](https://komarev.com/ghpvc/?username=melva0333&color=green)
 
 <!--
 **melva0333/melva0333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
